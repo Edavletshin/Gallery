@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestSport</string>
+    <string name="empty">Empty</string>
+    <string name="Unsplash">Unsplash</string>
+    <string name="addfavor">Add to favorites</string>
+    <string name="rmfavor">Remove from favorites</string>
+    <string name="no_conn">No connection</string>
+    <string name="retry">Retry</string>
+</resources>
